@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(253, 209, 172);
+}
+
+.container{    
+    display: grid;
+    place-content: center;   
+    
+        
+}
+
+.imj{ 
+    width: 600px;
+    border-radius: 50%;    
+    
+}
