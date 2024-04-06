@@ -8,6 +8,12 @@ body {
     
         
 }
+@media (max-width: 400px){
+    .container{
+        display: block;
+
+    }
+}
 
 .imj{ 
     width: 600px;
